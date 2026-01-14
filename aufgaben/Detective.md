@@ -24,15 +24,23 @@ Woran erkennt ihr, dass es ab hier ein Problem gibt?
 Mit welche(n) Befehl(en) könnt ihr das herausfinden?
 (Antwort: Commit-ID, Message, Begründung)
 
+50da5b1 Update tests-broken
+
 ## #3 - Welche Datei wurde dabei verändert?
 Welche Datei(en) wurden im verdächtigen Commit verändert?
 Mit welche(n) Befehlen könnt ihr das herausfinden?
 (Antwort: Commit-ID, geänderte Datei(en), Kurzbeschreibung der Änderung)
+
+50da5b1 Calculator.java, Es wurde ne Division durch 0 Ausgeführt, Datei Name wird unbenannt 
 
 ## #4 - Wer hat die entscheidende Stelle verändert?
 Welche Datei ist besonders relevant und warum?
 Mit welche(n) Befehlen kannst du dies rausfinden? 
 (Antwort: Datei, Commit-ID der relevanten Änderung, Commit Message, betroffene Code-Stelle, warum ist diese Stelle wichtig?)
 
+Calculator.java 50da5b1 Update  Devision durch 0
+
 ## #5: Vergleich vor und nach der Änderung
 Was ist der Unterschied im Code, bevor und nachdem das Problem entstanden ist? Mit welchem Befehl kannst du das rausfinden? 
+
+Es wurde statt return a / b, a / 0 geschrieben
