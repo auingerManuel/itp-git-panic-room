@@ -8,13 +8,15 @@ Ziel dieser Station ist es, das Repository zu **verstehen**, nicht es zu reparie
 
 Reparaturen folgen erst im **Panic Room** 🚨
 
-Ausgearbeitet von: <<<- Bitte hier deinen Namen einfügen.>>>
+Ausgearbeitet von: Manuel Auinger
 
 
 
 
 ## #1 -  Überblick über die Git-History
 Welche 2 Commits fallen euch in der History bereits zu Beginn negativ auf? Und warum? 
+
+2 Commits sind Stuff und Update, weil sie zu ungenau sind und nicht die Teammitglieder mitteilen was verändert wurde.
 
 
 ## #2 - Ab welchem Commit ist das Projekt nicht mehr stabil?
