@@ -72,3 +72,15 @@ Folgende Befehle können dir dabei (unter anderem) helfen. Hier gibt es mehrere 
 
 cmd: git checkout f58dc085f86d5cf87fd448f94b294a1665db9fc9 -- debug.log
 cmd: git add debug.log
+
+
+
+# Zusammenfassung
+
+1. Team - allein arbeit
+
+2. Probleme bei dem Panic Room - allgemein die Unerfahrung in Git Hub 
+
+3. viel mehr am Projekt arbeiten :>
+
+4. Im Grunde würden wahrscheinlich eher technische Probleme in unseren Jahresprojekt aufkommen. Hilfreich sind da gutes Zusammenarbeien und nichts überstürzen.
