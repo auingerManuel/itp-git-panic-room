@@ -12,11 +12,11 @@ Lösung: an den Namen des Branch
 ## Arbeit
 
 + Darf direkt auf main gearbeitet werden?
-Lösung: Zur Sicherheit nein
+Lösung: Grundlegende Änderungen ja, Features nein
 + Wann wird ein neuer Branch erstellt?
 Lösung: Für jeden neuen Bereich
 + Wann wird ein Branch gelöscht?
-Lösung: Wenn der Bereich fertig abgeschlossen gillt
+Lösung: Wenn der Bereich erfolgreich fertig ist
 
 
 # #2 - Commit & Merge
