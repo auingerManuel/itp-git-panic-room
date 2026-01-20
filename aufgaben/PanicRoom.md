@@ -58,6 +58,9 @@ Die Datei wurde entfernt
 
 ## Problem #4 - Datei wiederherstellen
 
+
++ Anmerkung war mir nicht sicher ob sie die vorige Datei wieder haben wollten oder eine Andere die gelöscht wurde hab jtzt beides gemacht
+
 ### Angabe:
 Hilfe - eine wichtige Datei wurde gelöscht!
 Finde den Commit, in dem sie noch existierte und holt euch diese Datei zurück. Ergänze kurz deine Vorgehensweise in eurem Markdown-File.
@@ -70,10 +73,12 @@ Folgende Befehle können dir dabei (unter anderem) helfen. Hier gibt es mehrere 
 
 ### Lösung:
 
++ Variante 1
 cmd: git checkout f58dc085f86d5cf87fd448f94b294a1665db9fc9 -- debug.log
 cmd: git add debug.log
 
-
++ Variante 2
+cmd: git checkout a8605e0c0717dda3a2644bf14d08a433e47c251d -- docs/usage.md
 
 # Zusammenfassung
 
